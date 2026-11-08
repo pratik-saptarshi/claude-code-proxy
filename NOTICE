@@ -1,0 +1,9 @@
+Upstream provenance
+
+This repository is a fork of 1rgs/claude-code-proxy. When this fork was pulled forward on
+2026-11-08, the upstream repository contained no license text (checked:
+repository root, full file tree, and package metadata).
+
+The MIT License in this fork (LICENSE) is added by the fork maintainer for
+the fork's own contributions. It does not relicense upstream-authored code,
+which remains the property of its respective authors.
